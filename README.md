@@ -1,23 +1,8 @@
 # country-region-data 
 
-[![Build Status](https://travis-ci.com/country-regions/country-region-data.svg?branch=master)](https://travis-ci.org/country-regions/country-region-data)
-
-This repo contains a static JSON file of country names, country short codes, country regions, and country region short 
-codes. All country names and short codes are guaranteed to be unique. Similarly, all regions and region short
+This repo contains a static JSON file of country names, country short codes, country regions, country region short codes and country region
+types. All country names and short codes are guaranteed to be unique. Similarly, all regions and region short
 codes *within a single country* are guaranteed to be unique.
-
-I created this repo to house the raw data used for the [country-region-selector](https://github.com/country-regions/country-region-selector),
-[react-country-region-selector](https://github.com/country-regions/react-country-region-selector) scripts. I didn't want to 
-duplicate it in multiple places and hey, it seemed like this could be useful as a standalone repo.
-
-### Install
-
-This package is available as an npm package. You can install via npm or yarn:
-
-```
-npm install country-region-data
-yarn add country-region-data
-```
 
 ### Structure
 
@@ -31,7 +16,8 @@ See the `data.json` file for the data. The JSON is of the form:
     "regions":[
       {
         "name":"Azuay",
-        "shortCode":"A"
+        "shortCode":"A",
+        "type": NN99NN
       },
       ...
     }
@@ -42,6 +28,34 @@ See the `data.json` file for the data. The JSON is of the form:
 
 Note: the `data.js` file is an UMD version of the data.json file, generated automatically. The `data.json` file is the
 source of truth for the data set.
+
+The `type` field is an integer using the region type codes. Multiple codes are delimited with a `99` number sequence.
+
+
+## Region Types
+
+GB: United Kingdom
+
+Council Area (Scotland) = 10
+Principal Area (Wales) = 20
+County (Wales) = 25
+Local Government (Northern Ireland) = 30
+County (Northern Ireland) = 35
+Government Office Region (England) = 40
+Ceremonial County (England) = 42
+London Borough (England) = 44
+Metropolitan Borough (England) = 46
+Unitary Authority (England) = 48
+Non-Metropolitan County (England) = 50
+Metropolitan County (England) = 52
+Isles of Scilly Local Authority = 54
+
+US: United States
+
+State = 110
+District = 120
+Territory = 130
+Military = 140
 
 
 ### Contribute
@@ -77,6 +91,19 @@ That'll throw an error if the JSON is invalid or if some duplicate names were ac
 are pretty clear, I think.
 
 
+## Build
+
+To use the JSON in the react-country-region-select library, the `data.json` file needs to be converted to UMD format and packed:
+
+```
+npm install
+grunt umdify
+npm pack
+```
+
+The NPM package will be created in the project directory, so move it somewhere else to avoid increasing the size of the package if you repack the project.
+
+
 ### Changelog
 
 Note that this repo does _not_ use semantic versioning. I realize that's pretty non-standard, but every change
@@ -85,6 +112,7 @@ the major version with each release, I think that that would be more problematic
 `^` chars in their package.json files to get the latest content so updates would be manual and frequent. If people
 disagree about this let me know. 
 
+- `1.7.0.1` - May 24, 2021. Added region types: UK, US
 - `1.7.0` - Nov 20, 2020. Data updates: France, Norway, Mali, Croatia, Paraguau, Taiwan, Kosovo, Morocco. 
 Thanks [mohouyizme](https://github.com/mohouyizme), [fabrice102](https://github.com/fabrice102), 
 [nicoepp](https://github.com/nicoepp), [sc0Vu](https://github.com/sc0Vu), [ibravoh149](https://github.com/ibravoh149) and

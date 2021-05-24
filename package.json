@@ -1,7 +1,7 @@
 {
   "name": "country-region-data",
-  "version": "1.7.0",
-  "description": "List of countries, regions, and their shortcodes.",
+  "version": "1.7.0.1",
+  "description": "List of countries, regions, shortcodes and region types.",
   "main": "data.json",
   "types": "./index.d.ts",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/benkeen/country-region-data.git"
+    "url": "https://github.com/david-lewis-ekmglobal/country-region-data.git"
   },
   "keywords": [
     "country",
@@ -17,11 +17,12 @@
     "data"
   ],
   "author": "Ben Keen",
+  "contributors": ["David Lewis"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/benkeen/country-region-data/issues"
+    "url": "https://github.com/david-lewis-ekmglobal/country-region-data/issues"
   },
-  "homepage": "https://github.com/benkeen/country-region-data",
+  "homepage": "https://github.com/david-lewis-ekmglobal/country-region-data",
   "devDependencies": {
     "grunt": "^1.1.0",
     "libumd": "^0.7.0",
