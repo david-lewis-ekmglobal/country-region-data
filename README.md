@@ -36,26 +36,26 @@ The `type` field is an integer using the region type codes. Multiple codes are d
 
 GB: United Kingdom
 
-Council Area (Scotland) = 10
-Principal Area (Wales) = 20
-County (Wales) = 25
-Local Government (Northern Ireland) = 30
-County (Northern Ireland) = 35
-Government Office Region (England) = 40
-Ceremonial County (England) = 42
-London Borough (England) = 44
-Metropolitan Borough (England) = 46
-Unitary Authority (England) = 48
-Non-Metropolitan County (England) = 50
-Metropolitan County (England) = 52
-Isles of Scilly Local Authority = 54
+- Council Area (Scotland) = 10
+- Principal Area (Wales) = 20
+- County (Wales) = 25
+- Local Government (Northern Ireland) = 30
+- County (Northern Ireland) = 35
+- Government Office Region (England) = 40
+- Ceremonial County (England) = 42
+- London Borough (England) = 44
+- Metropolitan Borough (England) = 46
+- Unitary Authority (England) = 48
+- Non-Metropolitan County (England) = 50
+- Metropolitan County (England) = 52
+- Isles of Scilly Local Authority = 54
 
 US: United States
 
-State = 110
-District = 120
-Territory = 130
-Military = 140
+- State = 110
+- District = 120
+- Territory = 130
+- Military = 140
 
 
 ### Contribute
