@@ -3060,135 +3060,135 @@
         "countryShortCode": "CN",
         "regions": [{
                 "name": "Anhui",
-                "shortCode": "34"
+                "shortCode": "AH"
             },
             {
                 "name": "Beijing",
-                "shortCode": "11"
+                "shortCode": "BJ"
             },
             {
                 "name": "Chongqing",
-                "shortCode": "50"
+                "shortCode": "CQ"
             },
             {
                 "name": "Fujian",
-                "shortCode": "35"
+                "shortCode": "FJ"
             },
             {
                 "name": "Gansu",
-                "shortCode": "62"
+                "shortCode": "GS"
             },
             {
                 "name": "Guangdong",
-                "shortCode": "44"
+                "shortCode": "GD"
             },
             {
                 "name": "Guangxi",
-                "shortCode": "45"
+                "shortCode": "GX"
             },
             {
                 "name": "Guizhou",
-                "shortCode": "52"
+                "shortCode": "GZ"
             },
             {
                 "name": "Hainan",
-                "shortCode": "46"
+                "shortCode": "HI"
             },
             {
                 "name": "Hebei",
-                "shortCode": "13"
+                "shortCode": "HE"
             },
             {
                 "name": "Heilongjiang",
-                "shortCode": "23"
+                "shortCode": "HL"
             },
             {
                 "name": "Henan",
-                "shortCode": "41"
+                "shortCode": "HA"
             },
             {
                 "name": "Hong Kong",
-                "shortCode": "91"
+                "shortCode": "HK"
             },
             {
                 "name": "Hubei",
-                "shortCode": "42"
+                "shortCode": "HB"
             },
             {
                 "name": "Hunan",
-                "shortCode": "43"
+                "shortCode": "HN"
             },
             {
                 "name": "Inner Mongolia",
-                "shortCode": "15"
+                "shortCode": "NM"
             },
             {
                 "name": "Jiangsu",
-                "shortCode": "32"
+                "shortCode": "JS"
             },
             {
                 "name": "Jiangxi",
-                "shortCode": "36"
+                "shortCode": "JX"
             },
             {
                 "name": "Jilin",
-                "shortCode": "22"
+                "shortCode": "JL"
             },
             {
                 "name": "Liaoning",
-                "shortCode": "21"
+                "shortCode": "LN"
             },
             {
                 "name": "Macau",
-                "shortCode": "92"
+                "shortCode": "MO"
             },
             {
                 "name": "Ningxia",
-                "shortCode": "64"
+                "shortCode": "NX"
             },
             {
                 "name": "Qinghai",
-                "shortCode": "63"
+                "shortCode": "QH"
             },
             {
                 "name": "Shaanxi",
-                "shortCode": "61"
+                "shortCode": "SN"
             },
             {
                 "name": "Shandong",
-                "shortCode": "37"
+                "shortCode": "SD"
             },
             {
                 "name": "Shanghai",
-                "shortCode": "31"
+                "shortCode": "SH"
             },
             {
                 "name": "Shanxi",
-                "shortCode": "14"
+                "shortCode": "SX"
             },
             {
                 "name": "Sichuan",
-                "shortCode": "51"
+                "shortCode": "SC"
             },
             {
                 "name": "Tianjin",
-                "shortCode": "12"
+                "shortCode": "TJ"
             },
             {
                 "name": "Tibet",
-                "shortCode": "54"
+                "shortCode": "XZ"
             },
             {
                 "name": "Xinjiang",
-                "shortCode": "65"
+                "shortCode": "XJ"
             },
             {
                 "name": "Yunnan",
-                "shortCode": "53"
+                "shortCode": "YN"
             },
             {
                 "name": "Zhejiang",
-                "shortCode": "33"
+                "shortCode": "ZJ"
             }
         ]
     },
@@ -5893,12 +5893,8 @@
                 "shortCode": "CT"
             },
             {
-                "name": "Dadra and Nagar Haveli",
-                "shortCode": "DN"
-            },
-            {
-                "name": "Daman and Diu",
-                "shortCode": "DD"
+                "name": "Dadra and Nagar Haveli and Daman and Diu",
+                "shortCode": "DH"
             },
             {
                 "name": "Delhi",
@@ -5919,7 +5915,7 @@
             {
                 "name": "Himachal Pradesh",
                 "shortCode": "HP"
-            },
+            },    
             {
                 "name": "Jammu and Kashmir",
                 "shortCode": "JK"
@@ -5936,6 +5932,10 @@
                 "name": "Kerala",
                 "shortCode": "KL"
             },
+            {
+                "name": "Ladakh",
+                "shortCode": "LA"
+            },         
             {
                 "name": "Lakshadweep",
                 "shortCode": "LD"
@@ -5982,7 +5982,7 @@
             },
             {
                 "name": "Sikkim",
-                "shortCode": "WK"
+                "shortCode": "SK"
             },
             {
                 "name": "Tamil Nadu",
@@ -9916,7 +9916,7 @@
                 "shortCode": "SO"
             },
             {
-                "name": "Stînga Nistrului",
+                "name": "Stânga Nistrului",
                 "shortCode": "SN"
             },
             {
@@ -10100,6 +10100,10 @@
             {
                 "name": "Uvs",
                 "shortCode": "046"
+            },
+            {
+                "name": "Erdenet",
+                "shortCode": "074"
             }
         ]
     },
@@ -10220,52 +10224,52 @@
         "regions": [
             {
                 "name": "Tanger-Tétouan-Al Hoceïma",
-                "code": "MA-01"
+                "shortCode": "MA-01"
             },
             {
                 "name": "L'Oriental",
-                "code": "MA-02"
+                "shortCode": "MA-02"
             },
             {
                 "name": "Fès-Meknès",
-                "code": "MA-03"
+                "shortCode": "MA-03"
             }
             ,
             {
                 "name": "Rabat-Salé-Kénitra",
-                "code": "MA-04"
+                "shortCode": "MA-04"
             },
             {
                 "name": "Béni Mellal-Khénifra",
-                "code": "MA-05"
+                "shortCode": "MA-05"
             },
             {
                 "name": "Casablanca-Settat",
-                "code": "MA-06"
+                "shortCode": "MA-06"
             },
             {
                 "name": "Marrakech-Safi",
-                "code": "MA-07"
+                "shortCode": "MA-07"
             },
             {
                 "name": "Drâa-Tafilalet",
-                "code": "MA-08"
+                "shortCode": "MA-08"
             },
             {
                 "name": "Souss-Massa",
-                "code": "MA-09"
+                "shortCode": "MA-09"
             },
             {
                 "name": "Guelmim-Oued Noun",
-                "code": "MA-10"
+                "shortCode": "MA-10"
             },
             {
                 "name": "Laâyoune-Sakia El Hamra",
-                "code": "MA-11"
+                "shortCode": "MA-11"
             },
             {
                 "name": "Dakhla-Oued Ed-Dahab",
-                "code": "MA-12"
+                "shortCode": "MA-12"
             }
         ]
     },
@@ -10508,61 +10512,34 @@
     {
         "countryName": "Nepal",
         "countryShortCode": "NP",
-        "regions": [{
-                "name": "Bagmati",
-                "shortCode": "BA"
+        "regions": [
+            {
+                "name": "Province No. 1",
+                "shortCode": "1"
             },
             {
-                "name": "Bheri",
-                "shortCode": "BH"
+                "name": "Province No. 2",
+                "shortCode": "2"
             },
             {
-                "name": "Dhawalagiri",
-                "shortCode": "DH"
+                "name": "Bagmati Province",
+                "shortCode": "3"
             },
             {
-                "name": "Gandaki",
-                "shortCode": "GA"
+                "name": "Gandaki Province",
+                "shortCode": "4"
             },
             {
-                "name": "Janakpur",
-                "shortCode": "JA"
+                "name": "Lumbini Province",
+                "shortCode": "5"
             },
             {
-                "name": "Karnali",
-                "shortCode": "KA"
+                "name": "Karnali Province",
+                "shortCode": "6"
             },
             {
-                "name": "Kosi",
-                "shortCode": "KO"
-            },
-            {
-                "name": "Lumbini",
-                "shortCode": "LU"
-            },
-            {
-                "name": "Mahakali",
-                "shortCode": "MA"
-            },
-            {
-                "name": "Mechi",
-                "shortCode": "ME"
-            },
-            {
-                "name": "Narayani",
-                "shortCode": "NA"
-            },
-            {
-                "name": "Rapti",
-                "shortCode": "RA"
-            },
-            {
-                "name": "Sagarmatha",
-                "shortCode": "SA"
-            },
-            {
-                "name": "Seti",
-                "shortCode": "SE"
+                "name": "Sudurpashchim",
+                "shortCode": "7"
             }
         ]
     },
@@ -16970,7 +16947,7 @@
                 "shortCode": "43"
             },
             {
-                "name": "Kyïv",
+                "name": "Kyiv",
                 "shortCode": "30"
             },
             {
@@ -18856,6 +18833,70 @@
         "countryName": "Vietnam",
         "countryShortCode": "VN",
         "regions": [{
+                "name": "An Giang",
+                "shortCode": "44"
+            },
+            {
+                "name": "Bà Rịa - Vũng Tàu",
+                "shortCode": "43"
+            },
+            {
+                "name": "Bình Dương",
+                "shortCode": "57"
+            },
+            {
+                "name": "Bình Phước",
+                "shortCode": "58"
+            },
+            {
+                "name": "Bình Định",
+                "shortCode": "31"
+            },
+            {
+                "name": "Bình Thuận",
+                "shortCode": "40"
+            },
+            {
+                "name": "Bạc Liêu",
+                "shortCode": "55"
+            },
+            {
+                "name": "Bắc Giang",
+                "shortCode": "54"
+            },
+            {
+                "name": "Bắc Kạn",
+                "shortCode": "53"
+            },
+            {
+                "name": "Bắc Ninh",
+                "shortCode": "56"
+            },
+            {
+                "name": "Bến Tre",
+                "shortCode": "50"
+            },
+            {
+                "name": "Cao Bằng",
+                "shortCode": "04"
+            },
+            {
+                "name": "Cà Mau",
+                "shortName": "59"
+            },
+            {   
+                "name": "Đắk Lắk",
+                "shortCode": "33"
+            },
+            {
+                "name": "Đắk Nông",
+                "shortCode": "72"
+            },
+            {
+                "name": "Điện Biên",
+                "shortCode": "71"
+            },
+            {
                 "name": "Đồng Nai",
                 "shortCode": "39"
             },
