@@ -1,8 +1,8 @@
 # country-region-data 
 
-This repo contains a static JSON file of country names, country short codes, country regions, country region short codes and country region
-types. All country names and short codes are guaranteed to be unique. Similarly, all regions and region short
-codes *within a single country* are guaranteed to be unique.
+This repo contains a static JSON file of country names, country short codes, country regions, country region short 
+codes and country region types. All country names and short codes are guaranteed to be unique. Similarly, all regions
+and region short codes *within a single country* are guaranteed to be unique.
 
 ### Structure
 
@@ -56,6 +56,12 @@ US: United States
 - District = 120
 - Territory = 130
 - Military = 140
+
+IT: Italy
+
+- Macroregion = 210
+- Region = 220
+- Province = 230
 
 
 ### Contribute
