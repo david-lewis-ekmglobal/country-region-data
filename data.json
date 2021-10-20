@@ -6503,83 +6503,683 @@
         "countryShortCode": "IT",
         "regions": [{
                 "name": "Abruzzo",
-                "shortCode": "65"
+                "shortCode": "65",
+                "type": "220"
+            },
+            {
+                "name": "Agrigento",
+                "shortCode": "AG",
+                "type": "230"
+            },
+            {
+                "name": "Alessandria",
+                "shortCode": "AL",
+                "type": "230"
+            },
+            {
+                "name": "Ancona",
+                "shortCode": "AN",
+                "type": "230"
+            },
+            {
+                "name": "Aosta",
+                "shortCode": "AO",
+                "type": "230"
+            },
+            {
+                "name": "Arezzo",
+                "shortCode": "AR",
+                "type": "230"
+            },
+            {
+                "name": "Ascoli Piceno",
+                "shortCode": "AP",
+                "type": "230"
+            },
+            {
+                "name": "Asti",
+                "shortCode": "AT",
+                "type": "230"
+            },
+            {
+                "name": "Avellino",
+                "shortCode": "AV",
+                "type": "230"
+            },
+            {
+                "name": "Bari",
+                "shortCode": "BA",
+                "type": "230"
+            },
+            {
+                "name": "Barletta-Andria-Trani",
+                "shortCode": "BT",
+                "type": "230"
             },
             {
                 "name": "Basilicata",
-                "shortCode": "77"
+                "shortCode": "77",
+                "type": "220"
+            },
+            {
+                "name": "Belluno",
+                "shortCode": "BL",
+                "type": "230"
+            },
+            {
+                "name": "Benevento",
+                "shortCode": "BN",
+                "type": "230"
+            },
+            {
+                "name": "Bergamo",
+                "shortCode": "BG",
+                "type": "230"
+            },
+            {
+                "name": "Biella",
+                "shortCode": "BI",
+                "type": "230"
+            },
+            {
+                "name": "Bologna",
+                "shortCode": "BO",
+                "type": "230"
+            },
+            {
+                "name": "Bolzano",
+                "shortCode": "BZ",
+                "type": "230"
+            },
+            {
+                "name": "Brescia",
+                "shortCode": "BS",
+                "type": "230"
+            },
+            {
+                "name": "Brindisi",
+                "shortCode": "BR",
+                "type": "230"
+            },
+            {
+                "name": "Cagliari",
+                "shortCode": "CA",
+                "type": "230"
             },
             {
                 "name": "Calabria",
-                "shortCode": "78"
+                "shortCode": "78",
+                "type": "220"
+            },
+            {
+                "name": "Caltanissetta",
+                "shortCode": "CL",
+                "type": "230"
             },
             {
                 "name": "Campania",
-                "shortCode": "72"
+                "shortCode": "72",
+                "type": "220"
+            },
+            {
+                "name": "Campobasso",
+                "shortCode": "CB",
+                "type": "230"
+            },
+            {
+                "name": "Carbonia-Iglesias",
+                "shortCode": "CI",
+                "type": "230"
+            },
+            {
+                "name": "Caserta",
+                "shortCode": "CE",
+                "type": "230"
+            },
+            {
+                "name": "Catania",
+                "shortCode": "CT",
+                "type": "230"
+            },
+            {
+                "name": "Catanzaro",
+                "shortCode": "CZ",
+                "type": "230"
+            },
+            {
+                "name": "Centro",
+                "shortCode": "CEN",
+                "type": "210"
+            },
+            {
+                "name": "Chieti",
+                "shortCode": "CH",
+                "type": "230"
+            },
+            {
+                "name": "Como",
+                "shortCode": "CO",
+                "type": "230"
+            },
+            {
+                "name": "Cosenza",
+                "shortCode": "CS",
+                "type": "230"
+            },
+            {
+                "name": "Cremona",
+                "shortCode": "CR",
+                "type": "230"
+            },
+            {
+                "name": "Crotone",
+                "shortCode": "KR",
+                "type": "230"
+            },
+            {
+                "name": "Cuneo",
+                "shortCode": "CN",
+                "type": "230"
             },
             {
                 "name": "Emilia-Romagna",
-                "shortCode": "45"
+                "shortCode": "45",
+                "type": "220"
+            },
+            {
+                "name": "Enna",
+                "shortCode": "EN",
+                "type": "230"
+            },
+            {
+                "name": "Fermo",
+                "shortCode": "FM",
+                "type": "230"
+            },
+            {
+                "name": "Ferrara",
+                "shortCode": "FE",
+                "type": "230"
+            },
+            {
+                "name": "Firenze",
+                "shortCode": "FI",
+                "type": "230"
+            },
+            {
+                "name": "Foggia",
+                "shortCode": "FG",
+                "type": "230"
+            },
+            {
+                "name": "Forlì-Cesena",
+                "shortCode": "FC",
+                "type": "230"
             },
             {
                 "name": "Friuli-Venezia Giulia",
-                "shortCode": "36"
+                "shortCode": "36",
+                "type": "220"
+            },
+            {
+                "name": "Frosinone",
+                "shortCode": "FR",
+                "type": "230"
+            },
+            {
+                "name": "Genova",
+                "shortCode": "GE",
+                "type": "230"
+            },
+            {
+                "name": "Gorizia",
+                "shortCode": "GO",
+                "type": "230"
+            },
+            {
+                "name": "Grosseto",
+                "shortCode": "GR",
+                "type": "230"
+            },
+            {
+                "name": "Imperia",
+                "shortCode": "IM",
+                "type": "230"
+            },
+            {
+                "name": "Isernia",
+                "shortCode": "IS",
+                "type": "230"
+            },
+            {
+                "name": "Isole",
+                "shortCode": "ISO",
+                "type": "210"
+            },
+            {
+                "name": "La Spezia",
+                "shortCode": "SP",
+                "type": "230"
+            },
+            {
+                "name": "L'Aquila",
+                "shortCode": "AQ",
+                "type": "230"
+            },
+            {
+                "name": "Latina",
+                "shortCode": "LT",
+                "type": "230"
             },
             {
                 "name": "Lazio",
-                "shortCode": "62"
+                "shortCode": "62",
+                "type": "220"
+            },
+            {
+                "name": "Lecce",
+                "shortCode": "LE",
+                "type": "230"
+            },
+            {
+                "name": "Lecco",
+                "shortCode": "LC",
+                "type": "230"
             },
             {
                 "name": "Liguria",
-                "shortCode": "42"
+                "shortCode": "42",
+                "type": "220"
+            },
+            {
+                "name": "Livorno",
+                "shortCode": "LI",
+                "type": "230"
+            },
+            {
+                "name": "Lodi",
+                "shortCode": "LO",
+                "type": "230"
             },
             {
                 "name": "Lombardia",
-                "shortCode": "25"
+                "shortCode": "25",
+                "type": "220"
+            },
+            {
+                "name": "Lucca",
+                "shortCode": "LU",
+                "type": "230"
+            },
+            {
+                "name": "Macerata",
+                "shortCode": "MC",
+                "type": "230"
+            },
+            {
+                "name": "Mantova",
+                "shortCode": "MN",
+                "type": "230"
             },
             {
                 "name": "Marche",
-                "shortCode": "57"
+                "shortCode": "57",
+                "type": "220"
+            },
+            {
+                "name": "Massa-Carrara",
+                "shortCode": "MS",
+                "type": "230"
+            },
+            {
+                "name": "Matera",
+                "shortCode": "MT",
+                "type": "230"
+            },
+            {
+                "name": "Medio Campidano",
+                "shortCode": "VS",
+                "type": "230"
+            },
+            {
+                "name": "Messina",
+                "shortCode": "ME",
+                "type": "230"
+            },
+            {
+                "name": "Milano",
+                "shortCode": "MI",
+                "type": "230"
+            },
+            {
+                "name": "Modena",
+                "shortCode": "MO",
+                "type": "230"
             },
             {
                 "name": "Molise",
-                "shortCode": "67"
+                "shortCode": "67",
+                "type": "220"
+            },
+            {
+                "name": "Monza e della Brianza",
+                "shortCode": "MB",
+                "type": "230"
+            },
+            {
+                "name": "Napoli",
+                "shortCode": "NA",
+                "type": "230"
+            },
+            {
+                "name": "Nord-Est",
+                "shortCode": "NES",
+                "type": "210"
+            },
+            {
+                "name": "Nord-Ovest",
+                "shortCode": "NOV",
+                "type": "210"
+            },
+            {
+                "name": "Novara",
+                "shortCode": "NO",
+                "type": "230"
+            },
+            {
+                "name": "Nuoro",
+                "shortCode": "NU",
+                "type": "230"
+            },
+            {
+                "name": "Ogliastra",
+                "shortCode": "OG",
+                "type": "230"
+            },
+            {
+                "name": "Olbia-Tempio",
+                "shortCode": "OT",
+                "type": "230"
+            },
+            {
+                "name": "Oristano",
+                "shortCode": "OR",
+                "type": "230"
+            },
+            {
+                "name": "Padova",
+                "shortCode": "PD",
+                "type": "230"
+            },
+            {
+                "name": "Palermo",
+                "shortCode": "PA",
+                "type": "230"
+            },
+            {
+                "name": "Parma",
+                "shortCode": "PR",
+                "type": "230"
+            },
+            {
+                "name": "Pavia",
+                "shortCode": "PV",
+                "type": "230"
+            },
+            {
+                "name": "Perugia",
+                "shortCode": "PG",
+                "type": "230"
+            },
+            {
+                "name": "Pesaro e Urbino",
+                "shortCode": "PU",
+                "type": "230"
+            },
+            {
+                "name": "Pescara",
+                "shortCode": "PE",
+                "type": "230"
+            },
+            {
+                "name": "Piacenza",
+                "shortCode": "PC",
+                "type": "230"
             },
             {
                 "name": "Piemonte",
-                "shortCode": "21"
+                "shortCode": "21",
+                "type": "220"
+            },
+            {
+                "name": "Pisa",
+                "shortCode": "PI",
+                "type": "230"
+            },
+            {
+                "name": "Pistoia",
+                "shortCode": "PT",
+                "type": "230"
+            },
+            {
+                "name": "Pordenone",
+                "shortCode": "PN",
+                "type": "230"
+            },
+            {
+                "name": "Potenza",
+                "shortCode": "PZ",
+                "type": "230"
+            },
+            {
+                "name": "Prato",
+                "shortCode": "PO",
+                "type": "230"
             },
             {
                 "name": "Puglia",
-                "shortCode": "75"
+                "shortCode": "75",
+                "type": "220"
+            },
+            {
+                "name": "Ragusa",
+                "shortCode": "RG",
+                "type": "230"
+            },
+            {
+                "name": "Ravenna",
+                "shortCode": "RA",
+                "type": "230"
+            },
+            {
+                "name": "Reggio Calabria",
+                "shortCode": "RC",
+                "type": "230"
+            },
+            {
+                "name": "Reggio Emilia",
+                "shortCode": "RE",
+                "type": "230"
+            },
+            {
+                "name": "Rieti",
+                "shortCode": "RI",
+                "type": "230"
+            },
+            {
+                "name": "Rimini",
+                "shortCode": "RN",
+                "type": "230"
+            },
+            {
+                "name": "Roma",
+                "shortCode": "RM",
+                "type": "230"
+            },
+            {
+                "name": "Rovigo",
+                "shortCode": "RO",
+                "type": "230"
+            },
+            {
+                "name": "Salerno",
+                "shortCode": "SA",
+                "type": "230"
             },
             {
                 "name": "Sardegna",
-                "shortCode": "88"
+                "shortCode": "88",
+                "type": "220"
+            },
+            {
+                "name": "Sassari",
+                "shortCode": "SS",
+                "type": "230"
+            },
+            {
+                "name": "Savona",
+                "shortCode": "SV",
+                "type": "230"
             },
             {
                 "name": "Sicilia",
-                "shortCode": "82"
+                "shortCode": "82",
+                "type": "220"
+            },
+            {
+                "name": "Siena",
+                "shortCode": "SI",
+                "type": "230"
+            },
+            {
+                "name": "Siracusa",
+                "shortCode": "SR",
+                "type": "230"
+            },
+            {
+                "name": "Sondrio",
+                "shortCode": "SO",
+                "type": "230"
+            },
+            {
+                "name": "Sud",
+                "shortCode": "SUD",
+                "type": "210"
+            },
+            {
+                "name": "Sud Sardegna",
+                "shortCode": "SU",
+                "type": "230"
+            },
+            {
+                "name": "Taranto",
+                "shortCode": "TA",
+                "type": "230"
+            },
+            {
+                "name": "Teramo",
+                "shortCode": "TE",
+                "type": "230"
+            },
+            {
+                "name": "Terni",
+                "shortCode": "TR",
+                "type": "230"
+            },
+            {
+                "name": "Torino",
+                "shortCode": "TO",
+                "type": "230"
             },
             {
                 "name": "Toscana",
-                "shortCode": "52"
+                "shortCode": "52",
+                "type": "220"
+            },
+            {
+                "name": "Trapani",
+                "shortCode": "TP",
+                "type": "230"
             },
             {
                 "name": "Trentino-Alto Adige",
-                "shortCode": "32"
+                "shortCode": "32",
+                "type": "220"
+            },
+            {
+                "name": "Trento",
+                "shortCode": "TN",
+                "type": "230"
+            },
+            {
+                "name": "Treviso",
+                "shortCode": "TV",
+                "type": "230"
+            },
+            {
+                "name": "Trieste",
+                "shortCode": "TS",
+                "type": "230"
+            },
+            {
+                "name": "Udine",
+                "shortCode": "UD",
+                "type": "230"
             },
             {
                 "name": "Umbria",
-                "shortCode": "55"
+                "shortCode": "55",
+                "type": "220"
             },
             {
                 "name": "Valle d'Aosta",
-                "shortCode": "23"
+                "shortCode": "23",
+                "type": "220"
+            },
+            {
+                "name": "Varese",
+                "shortCode": "VA",
+                "type": "230"
             },
             {
                 "name": "Veneto",
-                "shortCode": "34"
+                "shortCode": "34",
+                "type": "220"
+            },
+            {
+                "name": "Venezia",
+                "shortCode": "VE",
+                "type": "230"
+            },
+            {
+                "name": "Verbano-Cusio-Ossola",
+                "shortCode": "VB",
+                "type": "230"
+            },
+            {
+                "name": "Vercelli",
+                "shortCode": "VC",
+                "type": "230"
+            },
+            {
+                "name": "Verona",
+                "shortCode": "VR",
+                "type": "230"
+            },
+            {
+                "name": "Vibo Valentia",
+                "shortCode": "VV",
+                "type": "230"
+            },
+            {
+                "name": "Vicenza",
+                "shortCode": "VI",
+                "type": "230"
+            },
+            {
+                "name": "Viterbo",
+                "shortCode": "VT",
+                "type": "230"
             }
         ]
     },
