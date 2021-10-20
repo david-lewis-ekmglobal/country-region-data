@@ -17276,871 +17276,1213 @@ return [
     "regions": [
       {
         "name": "Aberdeen City",
-        "shortCode": "ABE"
+        "shortCode": "ABE",
+        "type": 10
       },
       {
         "name": "Aberdeenshire",
-        "shortCode": "ABD"
+        "shortCode": "ABD",
+        "type": 10
       },
       {
         "name": "Angus",
-        "shortCode": "ANS"
+        "shortCode": "ANS",
+        "type": 10
+      },
+      {
+        "name": "Antrim",
+        "shortCode": "ANT",
+        "type": 35
       },
       {
         "name": "Antrim and Newtownabbey",
-        "shortCode": "ANN"
+        "shortCode": "ANN",
+        "type": 30
       },
       {
         "name": "Ards and North Down",
-        "shortCode": "AND"
+        "shortCode": "AND",
+        "type": 30
       },
       {
         "name": "Argyll and Bute",
-        "shortCode": "AGB"
+        "shortCode": "AGB",
+        "type": 10
       },
       {
-        "name": "Armagh, Banbridge and Craigavon",
-        "shortCode": "ABC"
+        "name": "Armagh",
+        "shortCode": "ARM",
+        "type": 35
+      },
+      {
+        "name": "Armagh City, Banbridge and Craigavon",
+        "shortCode": "ABC",
+        "type": 30
       },
       {
         "name": "Barking and Dagenham",
-        "shortCode": "BDG"
+        "shortCode": "BDG",
+        "type": 44
       },
       {
         "name": "Barnet",
-        "shortCode": "BNE"
+        "shortCode": "BNE",
+        "type": 44
       },
       {
         "name": "Barnsley",
-        "shortCode": "BNS"
+        "shortCode": "BNS",
+        "type": 46
       },
       {
         "name": "Bath and North East Somerset",
-        "shortCode": "BAS"
+        "shortCode": "BAS",
+        "type": 489950
+      },
+      {
+        "name": "Bedfordshire",
+        "shortCode": "BDFS",
+        "type": 42
       },
       {
         "name": "Bedford",
-        "shortCode": "BDF"
+        "shortCode": "BDF",
+        "type": 489950
       },
       {
         "name": "Belfast",
-        "shortCode": "BFS"
+        "shortCode": "BFS",
+        "type": 30
+      },
+      {
+        "name": "Berkshire",
+        "shortCode": "BRK",
+        "type": 429950
       },
       {
         "name": "Bexley",
-        "shortCode": "BEX"
+        "shortCode": "BEX",
+        "type": 44
       },
       {
         "name": "Birmingham",
-        "shortCode": "BIR"
+        "shortCode": "BIR",
+        "type": 46
       },
       {
         "name": "Blackburn with Darwen",
-        "shortCode": "BBD"
+        "shortCode": "BBD",
+        "type": 489950
       },
       {
         "name": "Blackpool",
-        "shortCode": "BPL"
+        "shortCode": "BPL",
+        "type": 489950
       },
       {
         "name": "Blaenau Gwent",
-        "shortCode": "BGW"
+        "shortCode": "BGW",
+        "type": 20
       },
       {
         "name": "Bolton",
-        "shortCode": "BOL"
+        "shortCode": "BOL",
+        "type": 46
       },
       {
-        "name": "Bournemouth",
-        "shortCode": "BMH"
+        "name": "Bournemouth, Christchurch and Poole",
+        "shortCode": "BMH",
+        "type": 489950
       },
       {
         "name": "Bracknell Forest",
-        "shortCode": "BRC"
+        "shortCode": "BRC",
+        "type": 48
       },
       {
         "name": "Bradford",
-        "shortCode": "BRD"
+        "shortCode": "BRD",
+        "type": 46
       },
       {
         "name": "Brent",
-        "shortCode": "BEN"
+        "shortCode": "BEN",
+        "type": 44
       },
       {
         "name": "Bridgend",
-        "shortCode": "BGE"
+        "shortCode": "BGE",
+        "type": 20
       },
       {
         "name": "Brighton and Hove",
-        "shortCode": "BNH"
+        "shortCode": "BNH",
+        "type": 489950
+      },
+      {
+        "name": "Bristol",
+        "shortCode": "BRS",
+        "type": 429950
       },
       {
         "name": "Bristol, City of",
-        "shortCode": "BST"
+        "shortCode": "BST",
+        "type": 48
       },
       {
         "name": "Bromley",
-        "shortCode": "BRY"
+        "shortCode": "BRY",
+        "type": 44
       },
       {
         "name": "Buckinghamshire",
-        "shortCode": "BKM"
+        "shortCode": "BKM",
+        "type": 4299489950
       },
       {
         "name": "Bury",
-        "shortCode": "BUR"
+        "shortCode": "BUR",
+        "type": 46
       },
       {
         "name": "Caerphilly",
-        "shortCode": "CAY"
+        "shortCode": "CAY",
+        "type": 20
       },
       {
         "name": "Calderdale",
-        "shortCode": "CLD"
+        "shortCode": "CLD",
+        "type": 46
       },
       {
         "name": "Cambridgeshire",
-        "shortCode": "CAM"
+        "shortCode": "CAM",
+        "type": 429950
       },
       {
         "name": "Camden",
-        "shortCode": "CMD"
+        "shortCode": "CMD",
+        "type": 44
       },
       {
         "name": "Cardiff",
-        "shortCode": "CRF"
+        "shortCode": "CRF",
+        "type": 20
       },
       {
         "name": "Carmarthenshire",
-        "shortCode": "CMN"
+        "shortCode": "CMN",
+        "type": 209925
       },
       {
         "name": "Causeway Coast and Glens",
-        "shortCode": "CCG"
+        "shortCode": "CCG",
+        "type": 30
       },
       {
         "name": "Central Bedfordshire",
-        "shortCode": "CBF"
+        "shortCode": "CBF",
+        "type": 489950
       },
       {
         "name": "Ceredigion",
-        "shortCode": "CGN"
+        "shortCode": "CGN",
+        "type": 209925
+      },
+      {
+        "name": "Cheshire",
+        "shortCode": "CHS",
+        "type": 42
       },
       {
         "name": "Cheshire East",
-        "shortCode": "CHE"
+        "shortCode": "CHE",
+        "type": 489950
       },
       {
         "name": "Cheshire West and Chester",
-        "shortCode": "CHW"
+        "shortCode": "CHW",
+        "type": 489950
       },
       {
         "name": "Clackmannanshire",
-        "shortCode": "CLK"
+        "shortCode": "CLK",
+        "type": 10
       },
       {
         "name": "Conwy",
-        "shortCode": "CWY"
+        "shortCode": "CWY",
+        "type": 20
       },
       {
         "name": "Cornwall",
-        "shortCode": "CON"
+        "shortCode": "CON",
+        "type": 4299489950
+      },
+      {
+        "name": "County Durham",
+        "shortCode": "DUR",
+        "type": 4299489950
       },
       {
         "name": "Coventry",
-        "shortCode": "COV"
+        "shortCode": "COV",
+        "type": 46
       },
       {
         "name": "Croydon",
-        "shortCode": "CRY"
+        "shortCode": "CRY",
+        "type": 44
       },
       {
         "name": "Cumbria",
-        "shortCode": "CMA"
+        "shortCode": "CMA",
+        "type": 429952
       },
       {
         "name": "Darlington",
-        "shortCode": "DAL"
+        "shortCode": "DAL",
+        "type": 489950
       },
       {
         "name": "Denbighshire",
-        "shortCode": "DEN"
+        "shortCode": "DEN",
+        "type": 209925
       },
       {
         "name": "Derby",
-        "shortCode": "DER"
+        "shortCode": "DER",
+        "type": 489950
       },
       {
         "name": "Derbyshire",
-        "shortCode": "DBY"
+        "shortCode": "DBY",
+        "type": 429950
       },
       {
         "name": "Derry and Strabane",
-        "shortCode": "DRS"
+        "shortCode": "DRS",
+        "type": 30
       },
       {
         "name": "Devon",
-        "shortCode": "DEV"
+        "shortCode": "DEV",
+        "type": 429950
       },
       {
         "name": "Doncaster",
-        "shortCode": "DNC"
+        "shortCode": "DNC",
+        "type": 46
       },
       {
         "name": "Dorset",
-        "shortCode": "DOR"
+        "shortCode": "DOR",
+        "type": 4299489950
+      },
+      {
+        "name": "Down",
+        "shortCode": "DOW",
+        "type": 35
       },
       {
         "name": "Dudley",
-        "shortCode": "DUD"
+        "shortCode": "DUD",
+        "type": 46
       },
       {
         "name": "Dumfries and Galloway",
-        "shortCode": "DGY"
+        "shortCode": "DGY",
+        "type": 10
       },
       {
         "name": "Dundee City",
-        "shortCode": "DND"
-      },
-      {
-        "name": "Durham County",
-        "shortCode": "DUR"
+        "shortCode": "DND",
+        "type": 10
       },
       {
         "name": "Ealing",
-        "shortCode": "EAL"
+        "shortCode": "EAL",
+        "type": 44
       },
       {
         "name": "East Ayrshire",
-        "shortCode": "EAY"
+        "shortCode": "EAY",
+        "type": 10
       },
       {
         "name": "East Dunbartonshire",
-        "shortCode": "EDU"
+        "shortCode": "EDU",
+        "type": 10
       },
       {
         "name": "East Lothian",
-        "shortCode": "ELN"
+        "shortCode": "ELN",
+        "type": 10
+      },
+      {
+        "name": "East Midlands",
+        "shortCode": "UKF",
+        "type": 40
+      },
+      {
+        "name": "East of England",
+        "shortCode": "UKH",
+        "type": 40
       },
       {
         "name": "East Renfrewshire",
-        "shortCode": "ERW"
+        "shortCode": "ERW",
+        "type": 10
       },
       {
         "name": "East Riding of Yorkshire",
-        "shortCode": "ERY"
+        "shortCode": "ERY",
+        "type": 4299489950
       },
       {
         "name": "East Sussex",
-        "shortCode": "ESX"
+        "shortCode": "ESX",
+        "type": 429950
       },
       {
         "name": "Edinburgh, City of",
-        "shortCode": "EDH"
-      },
-      {
-        "name": "Eilean Siar",
-        "shortCode": "ELS"
+        "shortCode": "EDH",
+        "type": 10
       },
       {
         "name": "Enfield",
-        "shortCode": "ENF"
+        "shortCode": "ENF",
+        "type": 44
       },
       {
         "name": "Essex",
-        "shortCode": "ESS"
+        "shortCode": "ESS",
+        "type": 429950
       },
       {
         "name": "Falkirk",
-        "shortCode": "FAL"
+        "shortCode": "FAL",
+        "type": 10
+      },
+      {
+        "name": "Fermanagh",
+        "shortCode": "FER",
+        "type": 35
       },
       {
         "name": "Fermanagh and Omagh",
-        "shortCode": "FMO"
+        "shortCode": "FMO",
+        "type": 30
       },
       {
         "name": "Fife",
-        "shortCode": "FIF"
+        "shortCode": "FIF",
+        "type": 10
       },
       {
         "name": "Flintshire",
-        "shortCode": "FLN"
+        "shortCode": "FLN",
+        "type": 209925
       },
       {
         "name": "Gateshead",
-        "shortCode": "GAT"
+        "shortCode": "GAT",
+        "type": 46
       },
       {
         "name": "Glasgow City",
-        "shortCode": "GLG"
+        "shortCode": "GLG",
+        "type": 10
       },
       {
         "name": "Gloucestershire",
-        "shortCode": "GLS"
+        "shortCode": "GLS",
+        "type": 429950
+      },
+      {
+        "name": "Greater London",
+        "shortCode": "UKIGL",
+        "type": 42
+      },
+      {
+        "name": "Greater Manchester",
+        "shortCode": "UKD3",
+        "type": 429952
       },
       {
         "name": "Greenwich",
-        "shortCode": "GRE"
+        "shortCode": "GRE",
+        "type": 44
       },
       {
         "name": "Gwynedd",
-        "shortCode": "GWN"
+        "shortCode": "GWN",
+        "type": 209925
       },
       {
         "name": "Hackney",
-        "shortCode": "HCK"
+        "shortCode": "HCK",
+        "type": 44
       },
       {
         "name": "Halton",
-        "shortCode": "HAL"
+        "shortCode": "HAL",
+        "type": 489950
       },
       {
         "name": "Hammersmith and Fulham",
-        "shortCode": "HMF"
+        "shortCode": "HMF",
+        "type": 44
       },
       {
         "name": "Hampshire",
-        "shortCode": "HAM"
+        "shortCode": "HAM",
+        "type": 429950
       },
       {
         "name": "Haringey",
-        "shortCode": "HRY"
+        "shortCode": "HRY",
+        "type": 44
       },
       {
         "name": "Harrow",
-        "shortCode": "HRW"
+        "shortCode": "HRW",
+        "type": 44
       },
       {
         "name": "Hartlepool",
-        "shortCode": "HPL"
+        "shortCode": "HPL",
+        "type": 489950
       },
       {
         "name": "Havering",
-        "shortCode": "HAV"
+        "shortCode": "HAV",
+        "type": 44
       },
       {
         "name": "Herefordshire",
-        "shortCode": "HEF"
+        "shortCode": "HEF",
+        "type": 4299489950
       },
       {
         "name": "Hertfordshire",
-        "shortCode": "HRT"
+        "shortCode": "HRT",
+        "type": 429950
       },
       {
         "name": "Highland",
-        "shortCode": "HLD"
+        "shortCode": "HLD",
+        "type": 10
       },
       {
         "name": "Hillingdon",
-        "shortCode": "HIL"
+        "shortCode": "HIL",
+        "type": 44
       },
       {
         "name": "Hounslow",
-        "shortCode": "HNS"
+        "shortCode": "HNS",
+        "type": 44
       },
       {
         "name": "Inverclyde",
-        "shortCode": "IVC"
+        "shortCode": "IVC",
+        "type": 10
       },
       {
         "name": "Isle of Anglesey",
-        "shortCode": "AGY"
+        "shortCode": "AGY",
+        "type": 209925
       },
       {
         "name": "Isle of Wight",
-        "shortCode": "IOW"
+        "shortCode": "IOW",
+        "type": 4299489950
       },
       {
         "name": "Isles of Scilly",
-        "shortCode": "IOS"
+        "shortCode": "IOS",
+        "type": 54
       },
       {
         "name": "Islington",
-        "shortCode": "ISL"
+        "shortCode": "ISL",
+        "type": 44
       },
       {
         "name": "Kensington and Chelsea",
-        "shortCode": "KEC"
+        "shortCode": "KEC",
+        "type": 44
       },
       {
         "name": "Kent",
-        "shortCode": "KEN"
+        "shortCode": "KEN",
+        "type": 429950
       },
       {
         "name": "Kingston upon Hull",
-        "shortCode": "KHL"
+        "shortCode": "KHL",
+        "type": 489950
       },
       {
         "name": "Kingston upon Thames",
-        "shortCode": "KTT"
+        "shortCode": "KTT",
+        "type": 44
       },
       {
         "name": "Kirklees",
-        "shortCode": "KIR"
+        "shortCode": "KIR",
+        "type": 46
       },
       {
         "name": "Knowsley",
-        "shortCode": "KWL"
+        "shortCode": "KWL",
+        "type": 46
       },
       {
         "name": "Lambeth",
-        "shortCode": "LBH"
+        "shortCode": "LBH",
+        "type": 44
       },
       {
         "name": "Lancashire",
-        "shortCode": "LAN"
+        "shortCode": "LAN",
+        "type": 429950
       },
       {
         "name": "Leeds",
-        "shortCode": "LDS"
+        "shortCode": "LDS",
+        "type": 46
       },
       {
         "name": "Leicester",
-        "shortCode": "LCE"
+        "shortCode": "LCE",
+        "type": 489950
       },
       {
         "name": "Leicestershire",
-        "shortCode": "LEC"
+        "shortCode": "LEC",
+        "type": 429950
       },
       {
         "name": "Lewisham",
-        "shortCode": "LEW"
+        "shortCode": "LEW",
+        "type": 44
       },
       {
         "name": "Lincolnshire",
-        "shortCode": "LIN"
+        "shortCode": "LIN",
+        "type": 429950
       },
       {
         "name": "Lisburn and Castlereagh",
-        "shortCode": "LBC"
+        "shortCode": "LBC",
+        "type": 30
       },
       {
         "name": "Liverpool",
-        "shortCode": "LIV"
+        "shortCode": "LIV",
+        "type": 46
+      },
+      {
+        "name": "London",
+        "shortCode": "UKI",
+        "type": 40
       },
       {
         "name": "London, City of",
-        "shortCode": "LND"
+        "shortCode": "LND",
+        "type": 42
+      },
+      {
+        "name": "Londonderry",
+        "shortCode": "LDY",
+        "type": 35
       },
       {
         "name": "Luton",
-        "shortCode": "LUT"
+        "shortCode": "LUT",
+        "type": 489950
       },
       {
         "name": "Manchester",
-        "shortCode": "MAN"
+        "shortCode": "MAN",
+        "type": 46
       },
       {
         "name": "Medway",
-        "shortCode": "MDW"
+        "shortCode": "MDW",
+        "type": 489950
+      },
+      {
+        "name": "Mersyside",
+        "shortCode": "2B",
+        "type": 429952
       },
       {
         "name": "Merthyr Tydfil",
-        "shortCode": "MTY"
+        "shortCode": "MTY",
+        "type": 20
       },
       {
         "name": "Merton",
-        "shortCode": "MRT"
+        "shortCode": "MRT",
+        "type": 44
       },
       {
         "name": "Mid and East Antrim",
-        "shortCode": "MEA"
+        "shortCode": "MEA",
+        "type": 30
       },
       {
         "name": "Mid Ulster",
-        "shortCode": "MUL"
+        "shortCode": "MUL",
+        "type": 30
       },
       {
         "name": "Middlesbrough",
-        "shortCode": "MDB"
+        "shortCode": "MDB",
+        "type": 489950
       },
       {
         "name": "Midlothian",
-        "shortCode": "MLN"
+        "shortCode": "MLN",
+        "type": 10
       },
       {
         "name": "Milton Keynes",
-        "shortCode": "MIK"
+        "shortCode": "MIK",
+        "type": 489950
       },
       {
         "name": "Monmouthshire",
-        "shortCode": "MON"
+        "shortCode": "MON",
+        "type": 209925
       },
       {
         "name": "Moray",
-        "shortCode": "MRY"
+        "shortCode": "MRY",
+        "type": 10
+      },
+      {
+        "name": "Na h-Eileanan Siar (Western Isles)",
+        "shortCode": "ELS",
+        "type": 10
       },
       {
         "name": "Neath Port Talbot",
-        "shortCode": "NTL"
+        "shortCode": "NTL",
+        "type": 20
       },
       {
         "name": "Newcastle upon Tyne",
-        "shortCode": "NET"
+        "shortCode": "NET",
+        "type": 46
       },
       {
         "name": "Newham",
-        "shortCode": "NWM"
+        "shortCode": "NWM",
+        "type": 44
       },
       {
         "name": "Newport",
-        "shortCode": "NWP"
+        "shortCode": "NWP",
+        "type": 20
       },
       {
         "name": "Newry, Mourne and Down",
-        "shortCode": "NMD"
+        "shortCode": "NMD",
+        "type": 30
       },
       {
         "name": "Norfolk",
-        "shortCode": "NFK"
+        "shortCode": "NFK",
+        "type": 429950
       },
       {
         "name": "North Ayrshire",
-        "shortCode": "NAY"
+        "shortCode": "NAY",
+        "type": 10
+      },
+      {
+        "name": "North East",
+        "shortCode": "UKC",
+        "type": 40
       },
       {
         "name": "North East Lincolnshire",
-        "shortCode": "NEL"
+        "shortCode": "NEL",
+        "type": 489950
       },
       {
         "name": "North Lanarkshire",
-        "shortCode": "NLK"
+        "shortCode": "NLK",
+        "type": 10
       },
       {
         "name": "North Lincolnshire",
-        "shortCode": "NLN"
+        "shortCode": "NLN",
+        "type": 489950
       },
       {
         "name": "North Somerset",
-        "shortCode": "NSM"
+        "shortCode": "NSM",
+        "type": 489950
       },
       {
         "name": "North Tyneside",
-        "shortCode": "NTY"
+        "shortCode": "NTY",
+        "type": 46
+      },
+      {
+        "name": "North West",
+        "shortCode": "UKD",
+        "type": 40
       },
       {
         "name": "North Yorkshire",
-        "shortCode": "NYK"
+        "shortCode": "NYK",
+        "type": 429950
       },
       {
         "name": "Northamptonshire",
-        "shortCode": "NTH"
+        "shortCode": "NTH",
+        "type": 429950
       },
       {
         "name": "Northumberland",
-        "shortCode": "NBL"
+        "shortCode": "NBL",
+        "type": 4299489950
       },
       {
         "name": "Nottingham",
-        "shortCode": "NGM"
+        "shortCode": "NGM",
+        "type": 489950
       },
       {
         "name": "Nottinghamshire",
-        "shortCode": "NTT"
+        "shortCode": "NTT",
+        "type": 429950
       },
       {
         "name": "Oldham",
-        "shortCode": "OLD"
+        "shortCode": "OLD",
+        "type": 46
       },
       {
         "name": "Orkney Islands",
-        "shortCode": "ORK"
+        "shortCode": "ORK",
+        "type": 10
       },
       {
         "name": "Oxfordshire",
-        "shortCode": "OXF"
+        "shortCode": "OXF",
+        "type": 429950
       },
       {
         "name": "Pembrokeshire",
-        "shortCode": "PEM"
+        "shortCode": "PEM",
+        "type": 209925
       },
       {
         "name": "Perth and Kinross",
-        "shortCode": "PKN"
+        "shortCode": "PKN",
+        "type": 10
       },
       {
         "name": "Peterborough",
-        "shortCode": "PTE"
+        "shortCode": "PTE",
+        "type": 489950
       },
       {
         "name": "Plymouth",
-        "shortCode": "PLY"
+        "shortCode": "PLY",
+        "type": 489950
       },
       {
         "name": "Poole",
-        "shortCode": "POL"
+        "shortCode": "POL",
+        "type": 48
       },
       {
         "name": "Portsmouth",
-        "shortCode": "POR"
+        "shortCode": "POR",
+        "type": 489950
       },
       {
         "name": "Powys",
-        "shortCode": "POW"
+        "shortCode": "POW",
+        "type": 209925
       },
       {
         "name": "Reading",
-        "shortCode": "RDG"
+        "shortCode": "RDG",
+        "type": 48
       },
       {
         "name": "Redbridge",
-        "shortCode": "RDB"
+        "shortCode": "RDB",
+        "type": 44
       },
       {
         "name": "Redcar and Cleveland",
-        "shortCode": "RCC"
+        "shortCode": "RCC",
+        "type": 489950
       },
       {
         "name": "Renfrewshire",
-        "shortCode": "RFW"
+        "shortCode": "RFW",
+        "type": 10
       },
       {
-        "name": "Rhondda, Cynon, Taff",
-        "shortCode": "RCT"
+        "name": "Rhondda Cynon Taff",
+        "shortCode": "RCT",
+        "type": 209925
       },
       {
         "name": "Richmond upon Thames",
-        "shortCode": "RIC"
+        "shortCode": "RIC",
+        "type": 44
       },
       {
         "name": "Rochdale",
-        "shortCode": "RCH"
+        "shortCode": "RCH",
+        "type": 46
       },
       {
         "name": "Rotherham",
-        "shortCode": "ROT"
+        "shortCode": "ROT",
+        "type": 46
       },
       {
         "name": "Rutland",
-        "shortCode": "RUT"
+        "shortCode": "RUT",
+        "type": 4299489950
       },
       {
         "name": "St. Helens",
-        "shortCode": "SHN"
+        "shortCode": "SHN",
+        "type": 46
       },
       {
         "name": "Salford",
-        "shortCode": "SLF"
+        "shortCode": "SLF",
+        "type": 46
       },
       {
         "name": "Sandwell",
-        "shortCode": "SAW"
+        "shortCode": "SAW",
+        "type": 46
       },
       {
         "name": "Scottish Borders, The",
-        "shortCode": "SCB"
+        "shortCode": "SCB",
+        "type": 10
       },
       {
         "name": "Sefton",
-        "shortCode": "SFT"
+        "shortCode": "SFT",
+        "type": 46
       },
       {
         "name": "Sheffield",
-        "shortCode": "SHF"
+        "shortCode": "SHF",
+        "type": 46
       },
       {
         "name": "Shetland Islands",
-        "shortCode": "ZET"
+        "shortCode": "ZET",
+        "type": 10
       },
       {
         "name": "Shropshire",
-        "shortCode": "SHR"
+        "shortCode": "SHR",
+        "type": 4299489952
       },
       {
         "name": "Slough",
-        "shortCode": "SLG"
+        "shortCode": "SLG",
+        "type": 48
       },
       {
         "name": "Solihull",
-        "shortCode": "SOL"
+        "shortCode": "SOL",
+        "type": 46
       },
       {
         "name": "Somerset",
-        "shortCode": "SOM"
+        "shortCode": "SOM",
+        "type": 429950
       },
       {
         "name": "South Ayrshire",
-        "shortCode": "SAY"
+        "shortCode": "SAY",
+        "type": 10
+      },
+      {
+        "name": "South East",
+        "shortCode": "UKJ",
+        "type": 40
       },
       {
         "name": "South Gloucestershire",
-        "shortCode": "SGC"
+        "shortCode": "SGC",
+        "type": 489950
       },
       {
         "name": "South Lanarkshire",
-        "shortCode": "SLK"
+        "shortCode": "SLK",
+        "type": 10
       },
       {
         "name": "South Tyneside",
-        "shortCode": "STY"
+        "shortCode": "STY",
+        "type": 46
+      },
+      {
+        "name": "South West",
+        "shortCode": "UKK",
+        "type": 40
+      },
+      {
+        "name": "South Yorkshire",
+        "shortCode": "UKE3",
+        "type": 429952
       },
       {
         "name": "Southampton",
-        "shortCode": "STH"
+        "shortCode": "STH",
+        "type": 489950
       },
       {
         "name": "Southend-on-Sea",
-        "shortCode": "SOS"
+        "shortCode": "SOS",
+        "type": 489950
       },
       {
         "name": "Southwark",
-        "shortCode": "SWK"
+        "shortCode": "SWK",
+        "type": 44
       },
       {
         "name": "Staffordshire",
-        "shortCode": "STS"
+        "shortCode": "STS",
+        "type": 429950
       },
       {
         "name": "Stirling",
-        "shortCode": "STG"
+        "shortCode": "STG",
+        "type": 10
       },
       {
         "name": "Stockport",
-        "shortCode": "SKP"
+        "shortCode": "SKP",
+        "type": 46
       },
       {
         "name": "Stockton-on-Tees",
-        "shortCode": "STT"
+        "shortCode": "STT",
+        "type": 489950
       },
       {
         "name": "Stoke-on-Trent",
-        "shortCode": "STE"
+        "shortCode": "STE",
+        "type": 489950
       },
       {
         "name": "Suffolk",
-        "shortCode": "SFK"
+        "shortCode": "SFK",
+        "type": 429950
       },
       {
         "name": "Sunderland",
-        "shortCode": "SND"
+        "shortCode": "SND",
+        "type": 46
       },
       {
         "name": "Surrey",
-        "shortCode": "SRY"
+        "shortCode": "SRY",
+        "type": 429950
       },
       {
         "name": "Sutton",
-        "shortCode": "STN"
+        "shortCode": "STN",
+        "type": 44
       },
       {
         "name": "Swansea",
-        "shortCode": "SWA"
+        "shortCode": "SWA",
+        "type": 20
       },
       {
         "name": "Swindon",
-        "shortCode": "SWD"
+        "shortCode": "SWD",
+        "type": 489950
       },
       {
         "name": "Tameside",
-        "shortCode": "TAM"
+        "shortCode": "TAM",
+        "type": 46
       },
       {
         "name": "Telford and Wrekin",
-        "shortCode": "TFW"
+        "shortCode": "TFW",
+        "type": 489950
       },
       {
         "name": "Thurrock",
-        "shortCode": "THR"
+        "shortCode": "THR",
+        "type": 489950
       },
       {
         "name": "Torbay",
-        "shortCode": "TOB"
+        "shortCode": "TOB",
+        "type": 489950
       },
       {
         "name": "Torfaen",
-        "shortCode": "TOF"
+        "shortCode": "TOF",
+        "type": 20
       },
       {
         "name": "Tower Hamlets",
-        "shortCode": "TWH"
+        "shortCode": "TWH",
+        "type": 44
       },
       {
         "name": "Trafford",
-        "shortCode": "TRF"
+        "shortCode": "TRF",
+        "type": 46
+      },
+      {
+        "name": "Tyne and Wear",
+        "shortCode": "2D",
+        "type": 429952
+      },
+      {
+        "name": "Tyrone",
+        "shortCode": "TYR",
+        "type": 35
       },
       {
         "name": "Vale of Glamorgan, The",
-        "shortCode": "VGL"
+        "shortCode": "VGL",
+        "type": 209925
       },
       {
         "name": "Wakefield",
-        "shortCode": "WKF"
+        "shortCode": "WKF",
+        "type": 46
       },
       {
         "name": "Walsall",
-        "shortCode": "WLL"
+        "shortCode": "WLL",
+        "type": 46
       },
       {
         "name": "Waltham Forest",
-        "shortCode": "WFT"
+        "shortCode": "WFT",
+        "type": 44
       },
       {
         "name": "Wandsworth",
-        "shortCode": "WND"
+        "shortCode": "WND",
+        "type": 44
       },
       {
         "name": "Warrington",
-        "shortCode": "WRT"
+        "shortCode": "WRT",
+        "type": 489950
       },
       {
         "name": "Warwickshire",
-        "shortCode": "WAR"
+        "shortCode": "WAR",
+        "type": 429950
       },
       {
         "name": "West Berkshire",
-        "shortCode": "WBK"
+        "shortCode": "WBK",
+        "type": 48
       },
       {
         "name": "West Dunbartonshire",
-        "shortCode": "WDU"
+        "shortCode": "WDU",
+        "type": 10
       },
       {
         "name": "West Lothian",
-        "shortCode": "WLN"
+        "shortCode": "WLN",
+        "type": 10
+      },
+      {
+        "name": "West Midlands",
+        "shortCode": "UKG",
+        "type": 4099429952
       },
       {
         "name": "West Sussex",
-        "shortCode": "WSX"
+        "shortCode": "WSX",
+        "type": 429950
+      },
+      {
+        "name": "West Yorkshire",
+        "shortCode": "UKE4",
+        "type": 429952
       },
       {
         "name": "Westminster",
-        "shortCode": "WSM"
+        "shortCode": "WSM",
+        "type": 44
       },
       {
         "name": "Wigan",
-        "shortCode": "WGN"
+        "shortCode": "WGN",
+        "type": 46
       },
       {
         "name": "Wiltshire",
-        "shortCode": "WIL"
+        "shortCode": "WIL",
+        "type": 4299489950
       },
       {
         "name": "Windsor and Maidenhead",
-        "shortCode": "WNM"
+        "shortCode": "WNM",
+        "type": 48
       },
       {
         "name": "Wirral",
-        "shortCode": "WRL"
+        "shortCode": "WRL",
+        "type": 46
       },
       {
         "name": "Wokingham",
-        "shortCode": "WOK"
+        "shortCode": "WOK",
+        "type": 48
       },
       {
         "name": "Wolverhampton",
-        "shortCode": "WLV"
+        "shortCode": "WLV",
+        "type": 46
       },
       {
         "name": "Worcestershire",
-        "shortCode": "WOR"
+        "shortCode": "WOR",
+        "type": 429952
       },
       {
         "name": "Wrexham",
-        "shortCode": "WRX"
+        "shortCode": "WRX",
+        "type": 209925
       },
       {
         "name": "York",
-        "shortCode": "YOR"
+        "shortCode": "YOR",
+        "type": 489950
+      },
+      {
+        "name": "Yorkshire and the Humber",
+        "shortCode": "UKE",
+        "type": 40
       }
     ]
   },
@@ -18150,251 +18492,298 @@ return [
     "regions": [
       {
         "name": "Alabama",
-        "shortCode": "AL"
+        "shortCode": "AL",
+        "type": 110
       },
       {
         "name": "Alaska",
-        "shortCode": "AK"
+        "shortCode": "AK",
+        "type": 110
       },
       {
         "name": "American Samoa",
-        "shortCode": "AS"
+        "shortCode": "AS",
+        "type": 130
       },
       {
         "name": "Arizona",
-        "shortCode": "AZ"
+        "shortCode": "AZ",
+        "type": 110
       },
       {
         "name": "Arkansas",
-        "shortCode": "AR"
+        "shortCode": "AR",
+        "type": 110
       },
       {
         "name": "California",
-        "shortCode": "CA"
+        "shortCode": "CA",
+        "type": 110
       },
       {
         "name": "Colorado",
-        "shortCode": "CO"
+        "shortCode": "CO",
+        "type": 110
       },
       {
         "name": "Connecticut",
-        "shortCode": "CT"
+        "shortCode": "CT",
+        "type": 110
       },
       {
         "name": "Delaware",
-        "shortCode": "DE"
+        "shortCode": "DE",
+        "type": 110
       },
       {
         "name": "District of Columbia",
-        "shortCode": "DC"
-      },
-      {
-        "name": "Micronesia",
-        "shortCode": "FM"
+        "shortCode": "DC",
+        "type": 120
       },
       {
         "name": "Florida",
-        "shortCode": "FL"
+        "shortCode": "FL",
+        "type": 110
       },
       {
         "name": "Georgia",
-        "shortCode": "GA"
+        "shortCode": "GA",
+        "type": 110
       },
       {
         "name": "Guam",
-        "shortCode": "GU"
+        "shortCode": "GU",
+        "type": 130
       },
       {
         "name": "Hawaii",
-        "shortCode": "HI"
+        "shortCode": "HI",
+        "type": 110
       },
       {
         "name": "Idaho",
-        "shortCode": "ID"
+        "shortCode": "ID",
+        "type": 110
       },
       {
         "name": "Illinois",
-        "shortCode": "IL"
+        "shortCode": "IL",
+        "type": 110
       },
       {
         "name": "Indiana",
-        "shortCode": "IN"
+        "shortCode": "IN",
+        "type": 110
       },
       {
         "name": "Iowa",
-        "shortCode": "IA"
+        "shortCode": "IA",
+        "type": 110
       },
       {
         "name": "Kansas",
-        "shortCode": "KS"
+        "shortCode": "KS",
+        "type": 110
       },
       {
         "name": "Kentucky",
-        "shortCode": "KY"
+        "shortCode": "KY",
+        "type": 110
       },
       {
         "name": "Louisiana",
-        "shortCode": "LA"
+        "shortCode": "LA",
+        "type": 110
       },
       {
         "name": "Maine",
-        "shortCode": "ME"
-      },
-      {
-        "name": "Marshall Islands",
-        "shortCode": "MH"
+        "shortCode": "ME",
+        "type": 110
       },
       {
         "name": "Maryland",
-        "shortCode": "MD"
+        "shortCode": "MD",
+        "type": 110
       },
       {
         "name": "Massachusetts",
-        "shortCode": "MA"
+        "shortCode": "MA",
+        "type": 110
       },
       {
         "name": "Michigan",
-        "shortCode": "MI"
+        "shortCode": "MI",
+        "type": 110
       },
       {
         "name": "Minnesota",
-        "shortCode": "MN"
+        "shortCode": "MN",
+        "type": 110
       },
       {
         "name": "Mississippi",
-        "shortCode": "MS"
+        "shortCode": "MS",
+        "type": 110
       },
       {
         "name": "Missouri",
-        "shortCode": "MO"
+        "shortCode": "MO",
+        "type": 110
       },
       {
         "name": "Montana",
-        "shortCode": "MT"
+        "shortCode": "MT",
+        "type": 110
       },
       {
         "name": "Nebraska",
-        "shortCode": "NE"
+        "shortCode": "NE",
+        "type": 110
       },
       {
         "name": "Nevada",
-        "shortCode": "NV"
+        "shortCode": "NV",
+        "type": 110
       },
       {
         "name": "New Hampshire",
-        "shortCode": "NH"
+        "shortCode": "NH",
+        "type": 110
       },
       {
         "name": "New Jersey",
-        "shortCode": "NJ"
+        "shortCode": "NJ",
+        "type": 110
       },
       {
         "name": "New Mexico",
-        "shortCode": "NM"
+        "shortCode": "NM",
+        "type": 110
       },
       {
         "name": "New York",
-        "shortCode": "NY"
+        "shortCode": "NY",
+        "type": 110
       },
       {
         "name": "North Carolina",
-        "shortCode": "NC"
+        "shortCode": "NC",
+        "type": 110
       },
       {
         "name": "North Dakota",
-        "shortCode": "ND"
+        "shortCode": "ND",
+        "type": 110
       },
       {
         "name": "Northern Mariana Islands",
-        "shortCode": "MP"
+        "shortCode": "MP",
+        "type": 130
       },
       {
         "name": "Ohio",
-        "shortCode": "OH"
+        "shortCode": "OH",
+        "type": 110
       },
       {
         "name": "Oklahoma",
-        "shortCode": "OK"
+        "shortCode": "OK",
+        "type": 110
       },
       {
         "name": "Oregon",
-        "shortCode": "OR"
-      },
-      {
-        "name": "Palau",
-        "shortCode": "PW"
+        "shortCode": "OR",
+        "type": 110
       },
       {
         "name": "Pennsylvania",
-        "shortCode": "PA"
+        "shortCode": "PA",
+        "type": 110
       },
       {
         "name": "Puerto Rico",
-        "shortCode": "PR"
+        "shortCode": "PR",
+        "type": 130
       },
       {
         "name": "Rhode Island",
-        "shortCode": "RI"
+        "shortCode": "RI",
+        "type": 110
       },
       {
         "name": "South Carolina",
-        "shortCode": "SC"
+        "shortCode": "SC",
+        "type": 110
       },
       {
         "name": "South Dakota",
-        "shortCode": "SD"
+        "shortCode": "SD",
+        "type": 110
       },
       {
         "name": "Tennessee",
-        "shortCode": "TN"
+        "shortCode": "TN",
+        "type": 110
       },
       {
         "name": "Texas",
-        "shortCode": "TX"
+        "shortCode": "TX",
+        "type": 110
       },
       {
         "name": "Utah",
-        "shortCode": "UT"
+        "shortCode": "UT",
+        "type": 110
       },
       {
         "name": "Vermont",
-        "shortCode": "VT"
+        "shortCode": "VT",
+        "type": 110
       },
       {
         "name": "Virgin Islands",
-        "shortCode": "VI"
+        "shortCode": "VI",
+        "type": 130
       },
       {
         "name": "Virginia",
-        "shortCode": "VA"
+        "shortCode": "VA",
+        "type": 110
       },
       {
         "name": "Washington",
-        "shortCode": "WA"
+        "shortCode": "WA",
+        "type": 110
       },
       {
         "name": "West Virginia",
-        "shortCode": "WV"
+        "shortCode": "WV",
+        "type": 110
       },
       {
         "name": "Wisconsin",
-        "shortCode": "WI"
+        "shortCode": "WI",
+        "type": 110
       },
       {
         "name": "Wyoming",
-        "shortCode": "WY"
+        "shortCode": "WY",
+        "type": 110
       },
       {
         "name": "Armed Forces Americas",
-        "shortCode": "AA"
+        "shortCode": "AA",
+        "type": 140
       },
       {
         "name": "Armed Forces Europe, Canada, Africa and Middle East",
-        "shortCode": "AE"
+        "shortCode": "AE",
+        "type": 140
       },
       {
         "name": "Armed Forces Pacific",
-        "shortCode": "AP"
+        "shortCode": "AP",
+        "type": 140
       }
     ]
   },
